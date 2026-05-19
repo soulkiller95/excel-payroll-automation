@@ -13,6 +13,19 @@ Built using:
 - ReportLab
 
 ---
+# 📸 Project Screenshots
+
+## Excel Report
+
+![Excel Report](screenshots/excel-report.jpeg)
+
+---
+
+## PDF Report
+
+![PDF Report](screenshots/pdf-report.jpeg)
+
+---
 
 # ✨ Features
 
